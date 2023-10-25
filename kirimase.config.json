@@ -1,0 +1,16 @@
+{
+  "hasSrc": true,
+  "packages": [
+    "shadcn-ui",
+    "drizzle",
+    "clerk",
+    "resend"
+  ],
+  "preferredPackageManager": "npm",
+  "rootPath": "src/",
+  "componentLib": "shadcn-ui",
+  "driver": "pg",
+  "provider": "supabase",
+  "orm": "drizzle",
+  "auth": "clerk"
+}
